@@ -7,7 +7,7 @@ The goal of this analysis is to identify pick-and-roll and pick-and-pop actions 
 - https://github.com/linouk23/NBA-Player-Movements/tree/master (tracking data source)
 - https://github.com/sumitrodatta/nba-alt-awards/tree/main (PBP data source)
 
-The analysis can be performed by following along the notebook `PNR_and_PNP_identification.ipynb`.
+The analysis can be viewed or performed by following along the notebook `PNR_and_PNP_identification.ipynb`.
 
 These techniques were developed by building off of the following papers.
 
