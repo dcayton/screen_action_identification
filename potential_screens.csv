@@ -1,0 +1,218 @@
+,game_id,event_number,start_time,event_desc,handler_name,screener_name
+0,0021500333,6,654.4,Mahinmi STEAL (1 STL) / Whiteside Lost Ball Turnover (P1.T1),Hassan Whiteside,Dwyane Wade
+1,0021500333,24,548.66,nan / MISS Wade 2' Driving Layup,Dwyane Wade,Chris Bosh
+2,0021500333,58,345.76,nan / Wade 15' Fadeaway Jumper (6 PTS),Dwyane Wade,Amar'e Stoudemire
+3,0021500333,60,286.0,nan / MISS Deng 24' 3PT Jump Shot,Dwyane Wade,Amar'e Stoudemire
+4,0021500333,72,259.26,nan / MISS Wade 2' Driving Layup,Dwyane Wade,Amar'e Stoudemire
+5,0021500333,93,160.6,nan / Green 3' Running Layup (2 PTS) (Dragic 3 AST),Goran Dragic,Amar'e Stoudemire
+6,0021500333,98,133.56,nan / Green S.FOUL (P1.T4) (S.Corbin),Rodney Stuckey,Jordan Hill
+7,0021500333,107,105.66,MISS Stuckey 15' Jump Shot / nan,Paul George,Jordan Hill
+8,0021500333,119,40.94,Ellis 1' Cutting Layup Shot (4 PTS) (Stuckey 1 AST) / nan,Rodney Stuckey,Jordan Hill
+9,0021500333,120,21.41,nan / MISS Bosh 25' 3PT Jump Shot,Goran Dragic,Chris Bosh
+10,0021500333,134,668.2,nan / Green P.FOUL (P2.T2) (S.Corbin),Rodney Stuckey,Jordan Hill
+11,0021500333,146,592.95,MISS G. Hill 26' 3PT Jump Shot / nan,CJ Miles,Jordan Hill
+12,0021500333,148,553.74,Budinger STEAL (1 STL) / Richardson Bad Pass Turnover (P1.T7),Chris Bosh,Goran Dragic
+13,0021500333,157,505.89,Mahinmi 1' Cutting Dunk Shot (10 PTS) (Budinger 2 AST) / nan,Chase Budinger,Ian Mahinmi
+14,0021500333,158,489.56,nan / MISS Green 25' 3PT Jump Shot,Goran Dragic,Chris Bosh
+15,0021500333,160,443.29,MISS G. Hill  3PT Jump Shot / nan,George Hill,Ian Mahinmi
+16,0021500333,163,419.58,MISS Miles 3' Driving Finger Roll Layup / nan,Rodney Stuckey,Ian Mahinmi
+17,0021500333,178,338.75,MISS Mahinmi 1' Alley Oop Layup / nan,Rodney Stuckey,CJ Miles
+18,0021500333,204,213.49,George Bad Pass Turnover (P3.T6) / Deng STEAL (1 STL),Paul George,Ian Mahinmi
+19,0021500333,275,627.8,nan / Whiteside  Alley Oop Dunk (4 PTS) (Wade 2 AST),Dwyane Wade,Hassan Whiteside
+20,0021500333,299,464.93,George STEAL (1 STL) / Dragic Lost Ball Turnover (P4.T13),Dwyane Wade,Hassan Whiteside
+21,0021500333,305,430.21,nan / MISS Wade 3' Layup,Dwyane Wade,Hassan Whiteside
+22,0021500333,324,343.45,Ellis P.FOUL (P2.T4) (S.Corbin) / nan,Goran Dragic,Dwyane Wade
+23,0021500333,326,324.55,nan / MISS Wade 15' Jump Shot,Dwyane Wade,Hassan Whiteside
+24,0021500333,333,255.6,MISS Miles 25' 3PT Jump Shot / nan,Paul George,Ian Mahinmi
+25,0021500333,337,209.2,Ellis STEAL (5 STL) / Winslow Lost Ball Turnover (P3.T14),Dwyane Wade,Hassan Whiteside
+26,0021500333,359,107.27,Mahinmi 3' Turnaround Hook Shot (14 PTS) / nan,Rodney Stuckey,Ian Mahinmi
+27,0021500333,362,91.97,nan / Green 26' 3PT Jump Shot (10 PTS) (Deng 1 AST),Goran Dragic,Luol Deng
+28,0021500333,367,20.34,nan / MISS Winslow 25' 3PT Jump Shot,Goran Dragic,Gerald Green
+29,0021500333,382,649.81,nan / MISS Green 16' Pullup Jump Shot,Gerald Green,Chris Bosh
+30,0021500333,402,548.42,G. Hill STEAL (1 STL) / Udrih Lost Ball Turnover (P2.T17),Beno Udrih,Chris Bosh
+31,0021500333,404,523.54,Hill S.FOUL (P2.T2) (S.Corbin) / nan,Dwyane Wade,Chris Bosh
+32,0021500333,424,453.16,MISS Miles 32' 3PT Jump Shot / nan,Rodney Stuckey,Ian Mahinmi
+33,0021500333,433,400.8,Mahinmi 3' Cutting Dunk Shot (16 PTS) (Ellis 6 AST) / nan,Monta Ellis,Ian Mahinmi
+34,0021500333,436,348.52,nan / Bosh 16' Jump Shot (23 PTS) (Wade 5 AST),Dwyane Wade,Chris Bosh
+35,0021500333,454,216.22,Ellis P.FOUL (P4.T4) (M.Davis) / nan,Goran Dragic,Chris Bosh
+36,0021500292,2,683.09,MISS Rose 3' Layup / Walker BLOCK (1 BLK),Derrick Rose,Nikola Mirotic
+37,0021500292,4,666.29,nan / Williams 23' Jump Shot (2 PTS) (Walker 1 AST),Kemba Walker,Cody Zeller
+38,0021500292,6,626.18,nan / MISS Williams 24' 3PT Jump Shot,Nicolas Batum,Cody Zeller
+39,0021500292,11,591.06,nan / Zeller 14' Jump Shot (2 PTS) (Williams 1 AST),Kemba Walker,Marvin Williams
+40,0021500292,40,435.09,MISS Butler 13' Pullup Jump Shot / nan,Pau Gasol,Nikola Mirotic
+41,0021500292,59,300.9,MISS Rose 20' Jump Shot / nan,Doug McDermott,Joakim Noah
+42,0021500292,63,257.84,nan / Walker 3' Running Layup (7 PTS) (Batum 3 AST),Kemba Walker,Cody Zeller
+43,0021500292,65,246.03,nan / MISS Williams 2' Running Layup,Marvin Williams,Cody Zeller
+44,0021500292,84,188.62,nan / Kaminsky P.FOUL (P1.T2) (S.Wall),Jimmy Butler,Joakim Noah
+45,0021500292,85,166.2,MISS Noah 2' Driving Layup / nan,Kirk Hinrich,Joakim Noah
+46,0021500292,87,151.98,nan / MISS Kaminsky 2' Layup,Kemba Walker,Frank Kaminsky
+47,0021500292,94,112.77,Butler P.FOUL (P1.T2) (S.Wall) / nan,Kemba Walker,Spencer Hawes
+48,0021500292,108,42.66,Gibson 15' Jump Shot (2 PTS) (Hinrich 1 AST) / nan,Jimmy Butler,Taj Gibson
+49,0021500292,124,651.15,MISS Hinrich 25' 3PT Jump Shot / nan,Kirk Hinrich,Joakim Noah
+50,0021500292,168,409.77,Rose Offensive Charge Foul (P1.T2) (S.Wall) / nan,Jeremy Lamb,Spencer Hawes
+51,0021500292,176,360.56,MISS Gibson 2' Driving Layup / nan,Jimmy Butler,Derrick Rose
+52,0021500292,202,234.18,nan / Zeller  Cutting Dunk Shot (5 PTS) (Batum 4 AST),Kemba Walker,Cody Zeller
+53,0021500292,204,220.23,Gasol 20' Jump Shot (4 PTS) (McDermott 1 AST) / nan,Derrick Rose,Taj Gibson
+54,0021500292,226,81.24,Butler STEAL (1 STL) / Walker Bad Pass Turnover (P1.T3),Nicolas Batum,Cody Zeller
+55,0021500292,248,693.12,nan / MISS Williams 22' Jump Shot,Kemba Walker,Cody Zeller
+56,0021500292,253,637.6,MISS Gasol 11' Hook Shot / nan,Jimmy Butler,Tony Snell
+57,0021500292,257,612.76,nan / MISS Hairston 26' 3PT Jump Shot,Kemba Walker,Cody Zeller
+58,0021500292,299,406.96,nan / MISS Williams 7' Turnaround Jump Shot,Kemba Walker,Cody Zeller
+59,0021500292,313,352.68,nan / MISS Batum 22' Jump Shot,Kemba Walker,Cody Zeller
+60,0021500292,315,338.32,MISS Rose 25' 3PT Jump Shot / nan,Jimmy Butler,Pau Gasol
+61,0021500292,317,340.68,nan / Zeller 21' Jump Shot (15 PTS) (Walker 4 AST),Kemba Walker,Cody Zeller
+62,0021500292,318,335.31,Butler 2' Reverse Layup (13 PTS) (Gasol 4 AST) / nan,Derrick Rose,Nikola Mirotic
+63,0021500292,336,202.22,MISS Mirotic  Dunk / nan,Derrick Rose,Joakim Noah
+64,0021500292,338,183.14,nan / MISS Hawes 25' 3PT Jump Shot,Nicolas Batum,Spencer Hawes
+65,0021500292,374,48.24,Hinrich STEAL (1 STL) / Hawes Bad Pass Turnover (P2.T9),Kemba Walker,Spencer Hawes
+66,0021500292,378,27.0,Hinrich 22' Jump Shot (4 PTS) (Gibson 2 AST) / nan,Doug McDermott,Joakim Noah
+67,0021500292,395,681.07,Gibson Traveling Turnover (P1.T12) / nan,Doug McDermott,Joakim Noah
+68,0021500292,432,456.21,MISS Moore 2' Driving Layup / nan,Derrick Rose,Joakim Noah
+69,0021500292,436,450.92,nan / Lin P.FOUL (P3.T1) (M.Smith),Jimmy Butler,Joakim Noah
+70,0021500292,439,418.4,MISS Rose 25' 3PT Jump Shot / nan,Jimmy Butler,Joakim Noah
+71,0021500292,455,301.95,nan / MISS Lin 25' 3PT Jump Shot,Nicolas Batum,Spencer Hawes
+72,0021500292,477,237.59,MISS Rose 2' Driving Layup / nan,Derrick Rose,Nikola Mirotic
+73,0021500292,501,100.72,McDermott 25' 3PT Jump Shot (13 PTS) (Mirotic 1 AST) / nan,Derrick Rose,Pau Gasol
+74,0021500292,503,91.07,nan / MISS Batum 24' 3PT Jump Shot,Nicolas Batum,Cody Zeller
+75,0021500292,527,28.51,Butler Bad Pass Turnover (P3.T14) / Williams STEAL (2 STL),Jimmy Butler,Pau Gasol
+76,0021500230,4,697.9,MISS Lopez 2' Layup / nan,Carmelo Anthony,Robin Lopez
+77,0021500230,7,669.92,Calderon 17' Jump Shot (2 PTS) / nan,Jose Calderon,Robin Lopez
+78,0021500230,8,656.06,nan / MISS Bosh 16' Jump Shot,Dwyane Wade,Hassan Whiteside
+79,0021500230,18,604.97,nan / MISS Wade 6' Jump Shot,Dwyane Wade,Goran Dragic
+80,0021500230,34,532.09,Anthony 16' Jump Shot (4 PTS) (O'Quinn 1 AST) / nan,Carmelo Anthony,Kyle O'Quinn
+81,0021500230,36,500.8,Porzingis 12' Step Back Jump Shot (2 PTS) / nan,Kyle O'Quinn,Arron Afflalo
+82,0021500230,37,478.27,nan / MISS Bosh 17' Jump Shot,Dwyane Wade,Chris Bosh
+83,0021500230,39,462.76,MISS O'Quinn 16' Jump Shot / nan,Arron Afflalo,Kristaps Porzingis
+84,0021500230,50,398.16,MISS Porzingis 15' Jump Shot / nan,Jose Calderon,Kyle O'Quinn
+85,0021500230,74,324.59,nan / MISS Wade 5' Jump Shot,Dwyane Wade,Josh McRoberts
+86,0021500230,82,295.04,Afflalo BLOCK (1 BLK) / MISS Wade 16' Jump Shot,Dwyane Wade,Hassan Whiteside
+87,0021500230,89,254.75,nan / Whiteside S.FOUL (P1.T3) (T.Maddox),Jose Calderon,Kyle O'Quinn
+88,0021500230,98,246.62,Calderon S.FOUL (P1.T4) (D.Stafford) / nan,Goran Dragic,Josh McRoberts
+89,0021500230,108,226.6,MISS Thomas 25' 3PT Jump Shot / nan,Langston Galloway,Kyle O'Quinn
+90,0021500230,118,202.99,nan / Johnson 3' Running Jump Shot (2 PTS) (Dragic 2 AST),Goran Dragic,Hassan Whiteside
+91,0021500230,122,134.62,O'Quinn S.FOUL (P2.PN) (B.Barnaky) / nan,Goran Dragic,Josh McRoberts
+92,0021500230,143,40.11,nan / MISS Johnson 8' Jump Bank Shot,Tyler Johnson,Chris Bosh
+93,0021500230,154,4.26,MISS Galloway 18' Jump Shot / nan,Jerian Grant,Kevin Seraphin
+94,0021500230,172,665.12,MISS Williams 25' 3PT Jump Shot / nan,Derrick Williams,Kevin Seraphin
+95,0021500230,174,637.48,nan / MISS Haslem 12' Jump Shot,Udonis Haslem,Beno Udrih
+96,0021500230,179,605.75,nan / Udrih P.FOUL (P1.T1) (T.Maddox),Jerian Grant,Kevin Seraphin
+97,0021500230,180,602.58,nan / Haslem S.FOUL (P1.T2) (D.Stafford),Jerian Grant,Kevin Seraphin
+98,0021500230,188,571.01,Grant 1' Driving Layup (4 PTS) / nan,Jerian Grant,Kevin Seraphin
+99,0021500230,189,556.2,Porzingis S.FOUL (P1.T1) (D.Stafford) / nan,Beno Udrih,Udonis Haslem
+100,0021500230,197,525.78,nan / Bosh 24' 3PT Jump Shot (8 PTS) (Wade 1 AST),Dwyane Wade,Udonis Haslem
+101,0021500230,199,496.68,nan / Bosh 18' Jump Shot (10 PTS) (Johnson 1 AST),Tyler Johnson,Udonis Haslem
+102,0021500230,215,446.25,nan / MISS Wade 5' Jump Shot,Tyler Johnson,Hassan Whiteside
+103,0021500230,218,418.22,nan / MISS Winslow 3' Layup,Justise Winslow,Chris Bosh
+104,0021500230,251,236.67,Porzingis STEAL (2 STL) / Wade Bad Pass Turnover (P1.T8),Hassan Whiteside,Justise Winslow
+105,0021500230,252,229.97,MISS Afflalo 24' Jump Shot / nan,Carmelo Anthony,Kristaps Porzingis
+106,0021500230,282,124.1,Seraphin 18' Jump Shot (6 PTS) (Galloway 2 AST) / nan,Langston Galloway,Kevin Seraphin
+107,0021500230,288,63.92,nan / Wade 3' Floating Jump Shot (9 PTS),Dwyane Wade,Hassan Whiteside
+108,0021500230,289,49.29,MISS Seraphin 4' Hook Shot / nan,Kevin Seraphin,Jose Calderon
+109,0021500230,291,34.32,nan / MISS Whiteside 15' Jump Shot,Hassan Whiteside,Dwyane Wade
+110,0021500230,303,711.09,MISS Anthony 14' Turnaround Jump Shot / nan,Carmelo Anthony,Jose Calderon
+111,0021500230,311,656.81,nan / Green 2' Driving Layup (7 PTS),Gerald Green,Chris Bosh
+112,0021500230,314,625.14,nan / MISS Wade 12' Turnaround Jump Shot,Hassan Whiteside,Dwyane Wade
+113,0021500230,318,582.4,nan / MISS Bosh 25' 3PT Jump Shot,Dwyane Wade,Chris Bosh
+114,0021500230,337,493.09,Porzingis Foul Turnover (P1.T6) / nan,Jose Calderon,Kristaps Porzingis
+115,0021500230,346,445.63,MISS Thomas 5' Hook Shot / nan,Carmelo Anthony,Jose Calderon
+116,0021500230,356,363.58,MISS Anthony  3PT Jump Shot / nan,Carmelo Anthony,Kevin Seraphin
+117,0021500230,358,354.92,Anthony S.FOUL (P2.T2) (D.Stafford) / nan,Goran Dragic,Hassan Whiteside
+118,0021500230,377,282.19,MISS Calderon 19' Jump Shot / nan,Jose Calderon,Kevin Seraphin
+119,0021500230,379,271.09,nan / MISS Wade 7' Floating Jump Shot,Hassan Whiteside,Josh McRoberts
+120,0021500230,391,225.64,nan / MISS Dragic 6' Jump Shot,Goran Dragic,Josh McRoberts
+121,0021500230,393,217.02,Thomas 13' Jump Shot (4 PTS) (Grant 3 AST) / nan,Jerian Grant,Kevin Seraphin
+122,0021500230,395,184.88,MISS Anthony 18' Jump Shot / nan,Carmelo Anthony,Kevin Seraphin
+123,0021500230,398,184.52,Seraphin 3' Hook Shot (10 PTS) / nan,Carmelo Anthony,Kevin Seraphin
+124,0021500230,409,94.93,nan / Bosh 14' Jump Shot (18 PTS) (Wade 3 AST),Dwyane Wade,Chris Bosh
+125,0021500230,410,70.52,Amundson 1' Reverse Layup (2 PTS) (Grant 5 AST) / nan,Jerian Grant,Derrick Williams
+126,0021500230,411,51.84,nan / MISS Dragic 16' Jump Shot,Goran Dragic,Chris Bosh
+127,0021500230,413,41.31,MISS Grant 2' Driving Layup / nan,Jerian Grant,Lou Amundson
+128,0021500230,415,24.14,nan / Wade 9' Step Back Jump Shot (17 PTS),Goran Dragic,Dwyane Wade
+129,0021500230,421,709.3,Amundson S.FOUL (P1.T1) (B.Barnaky) / nan,Justise Winslow,Josh McRoberts
+130,0021500230,426,700.03,Williams 15' Turnaround Jump Shot (4 PTS) / nan,Jerian Grant,Derrick Williams
+131,0021500230,427,667.91,nan / MISS Green 24' 3PT Jump Shot,Justise Winslow,Josh McRoberts
+132,0021500230,429,648.39,Williams 24' 3PT Jump Shot (7 PTS) (Grant 6 AST) / nan,Jerian Grant,Kyle O'Quinn
+133,0021500230,431,605.93,MISS O'Quinn 24' 3PT Jump Shot / nan,Lou Amundson,Derrick Williams
+134,0021500230,441,574.2,nan / Green  Driving Dunk (15 PTS),Tyler Johnson,Chris Bosh
+135,0021500230,444,551.32,Porzingis Lost Ball Turnover (P2.T9) / Johnson STEAL (1 STL),Jerian Grant,Kristaps Porzingis
+136,0021500230,464,383.16,MISS Williams  3PT Jump Shot / nan,Jerian Grant,Kristaps Porzingis
+137,0021500230,469,365.84,nan / Green 25' 3PT Jump Shot (25 PTS) (Johnson 2 AST),Tyler Johnson,Josh McRoberts
+138,0021500230,475,331.02,Galloway 1' Driving Layup (8 PTS) / nan,Jose Calderon,Robin Lopez
+139,0021500230,482,264.25,MISS Calderon 21' Jump Shot / nan,Jose Calderon,Robin Lopez
+140,0021500230,490,225.99,Porzingis BLOCK (2 BLK) / MISS Winslow 4' Jump Shot,Justise Winslow,Tyler Johnson
+141,0021500230,492,211.81,MISS Lopez 5' Jump Shot / Whiteside BLOCK (5 BLK),Jose Calderon,Robin Lopez
+142,0021500230,495,191.66,Porzingis BLOCK (3 BLK) / MISS Green 2' Layup,Justise Winslow,Hassan Whiteside
+143,0021500230,497,175.14,Porzingis 13' Turnaround Jump Shot (11 PTS) (Lopez 1 AST) / nan,Robin Lopez,Kristaps Porzingis
+144,0021500230,506,154.03,nan / MISS Johnson 8' Jump Shot,Tyler Johnson,Hassan Whiteside
+145,0021500230,508,140.01,MISS Galloway 2' Layup / Whiteside BLOCK (6 BLK),Kevin Seraphin,Derrick Williams
+146,0021500230,510,120.97,O'Quinn STEAL (3 STL) / Johnson Bad Pass Turnover (P2.T13),Justise Winslow,Udonis Haslem
+147,0021500230,511,139.93,nan / Winslow P.FOUL (P3.T4) (B.Barnaky),Kevin Seraphin,Derrick Williams
+148,0021500230,514,107.39,MISS Seraphin 8' Jump Shot / nan,Jerian Grant,Kevin Seraphin
+149,0021500230,518,69.18,MISS Galloway  3PT Jump Shot / nan,Kevin Seraphin,Jerian Grant
+150,0021500115,23,601.08,nan / MISS Lowry 8' Jump Shot,Kyle Lowry,Jonas Valanciunas
+151,0021500115,137,8.95,Pressey Bad Pass Turnover (P1.T2) / Patterson STEAL (1 STL),Phil Pressey,Jerami Grant
+152,0021500115,149,663.32,Canaan P.FOUL (P1.T2) (T.Washington) / nan,Cory Joseph,Patrick Patterson
+153,0021500115,150,636.04,nan / Patterson 6' Pullup Jump Shot (4 PTS) (Joseph 1 AST),Cory Joseph,Luis Scola
+154,0021500115,161,568.37,nan / Scola P.FOUL (P2.T1) (T.Washington),TJ McConnell,Jahlil Okafor
+155,0021500115,186,421.64,nan / Powell Step Out of Bounds Turnover (P1.T2),Jonas Valanciunas,Cory Joseph
+156,0021500115,211,272.44,nan / Lowry P.FOUL (P1.T4) (T.Washington),Jerami Grant,JaKarr Sampson
+157,0021500115,293,570.11,nan / Johnson P.FOUL (P1.T1) (C.Blair),Nik Stauskas,Jahlil Okafor
+158,0021500115,318,395.95,nan / MISS DeRozan 9' Jump Shot,Kyle Lowry,Jonas Valanciunas
+159,0021500115,328,364.87,Thompson P.FOUL (P3.T4) (C.Blair) / nan,Jonas Valanciunas,Kyle Lowry
+160,0021500115,336,303.88,Thompson 24' 3PT Jump Shot (8 PTS) (McConnell 9 AST) / nan,Hollis Thompson,Isaiah Canaan
+161,0021500115,342,252.86,nan / Scola 19' Jump Shot (19 PTS) (Lowry 7 AST),Kyle Lowry,Luis Scola
+162,0021500115,344,245.37,nan / MISS Scola 24' 3PT Jump Shot,Kyle Lowry,Jonas Valanciunas
+163,0021500115,352,212.68,nan / Scola P.FOUL (P4.T3) (C.Blair),Hollis Thompson,Christian Wood
+164,0021500115,362,172.37,nan / Patterson Traveling Turnover (P2.T7),Kyle Lowry,Bismack Biyombo
+165,0021500115,387,31.78,Pressey STEAL (1 STL) / Lowry Bad Pass Turnover (P2.T8),Cory Joseph,Patrick Patterson
+166,0021500115,389,25.9,nan / Joseph 1' Driving Layup (9 PTS) (Lowry 8 AST),Kyle Lowry,Bismack Biyombo
+167,0021500115,403,693.71,nan / Joseph 2' Driving Layup (11 PTS),Cory Joseph,Bismack Biyombo
+168,0021500115,420,572.87,Grant S.FOUL (P2.T1) (C.Blair) / nan,Cory Joseph,Bismack Biyombo
+169,0021500115,459,408.06,nan / Biyombo P.FOUL (P4.T2) (C.Blair),TJ McConnell,Jahlil Okafor
+170,0021500115,481,250.47,nan / Biyombo 1' Reverse Layup (6 PTS),Cory Joseph,Bismack Biyombo
+171,0021500115,483,204.84,nan / Biyombo 1' Alley Oop Layup (8 PTS) (Joseph 5 AST),Cory Joseph,Bismack Biyombo
+172,0021500115,485,173.08,nan / MISS Joseph 13' Fadeaway Jumper,Cory Joseph,Bismack Biyombo
+173,0021500115,494,141.27,nan / MISS Wright 21' Jump Shot,Delon Wright,Bismack Biyombo
+174,0021500115,497,105.48,nan / MISS Bennett 26' 3PT Jump Shot,Norman Powell,Patrick Patterson
+175,0021500115,513,75.42,Thompson S.FOUL (P5.PN) (T.Washington) / nan,Norman Powell,Bismack Biyombo
+176,0021500648,10,617.71,MISS Afflalo 6' Jump Shot / nan,Arron Afflalo,Robin Lopez
+177,0021500648,22,528.44,MISS Calderon 12' Jump Shot / nan,Robin Lopez,Arron Afflalo
+178,0021500648,71,244.15,nan / MISS Paul 4' Jump Shot,Chris Paul,DeAndre Jordan
+179,0021500648,80,146.71,nan / W. Johnson  3PT Jump Shot (9 PTS) (Jordan 2 AST),Chris Paul,DeAndre Jordan
+180,0021500648,96,81.33,nan / MISS Paul 8' Jump Shot,Chris Paul,DeAndre Jordan
+181,0021500648,104,48.24,nan / MISS Crawford 24' Jump Shot,Chris Paul,DeAndre Jordan
+182,0021500648,116,709.36,nan / W. Johnson 22' Jump Shot (11 PTS) (Prigioni 1 AST),Austin Rivers,Cole Aldrich
+183,0021500648,128,617.82,Williams OFF.Foul (P1) (M.Boland) / nan,Pablo Prigioni,Wesley Johnson
+184,0021500648,130,590.19,nan / MISS Aldrich 5' Hook Shot,Austin Rivers,Wesley Johnson
+185,0021500648,133,561.56,nan / MISS Crawford 16' Jump Shot,Jamal Crawford,Wesley Johnson
+186,0021500648,145,506.21,nan / MISS Crawford 13' Jump Shot,Jamal Crawford,Cole Aldrich
+187,0021500648,150,474.9,nan / Rivers 24' 3PT Jump Shot (3 PTS) (W. Johnson 1 AST),Pablo Prigioni,Cole Aldrich
+188,0021500648,165,373.86,nan / Prigioni 26' 3PT Jump Shot (3 PTS) (Rivers 1 AST),Jamal Crawford,Pablo Prigioni
+189,0021500648,174,312.2,nan / Paul Bad Pass Turnover (P2.T5),Chris Paul,Paul Pierce
+190,0021500648,198,158.11,Afflalo STEAL (1 STL) / Jordan Lost Ball Turnover (P1.T6),Chris Paul,JJ Redick
+191,0021500648,203,125.43,nan / Redick 25' 3PT Jump Shot (7 PTS) (Paul 10 AST),Chris Paul,DeAndre Jordan
+192,0021500648,205,92.75,nan / MISS Paul 5' Jump Shot,Chris Paul,DeAndre Jordan
+193,0021500648,265,564.13,nan / MISS Pierce 16' Jump Shot,Chris Paul,DeAndre Jordan
+194,0021500648,268,546.86,nan / Pierce S.FOUL (P2.T3) (M.Boland),Jose Calderon,Kristaps Porzingis
+195,0021500648,274,519.3,MISS Anthony 25' 3PT Jump Shot / nan,Jose Calderon,Kristaps Porzingis
+196,0021500648,279,494.25,Lopez L.B.FOUL (P1.T3) (D.Stafford) / nan,Chris Paul,DeAndre Jordan
+197,0021500648,283,447.34,nan / Paul P.FOUL (P2.T4) (D.Stafford),Jose Calderon,Kristaps Porzingis
+198,0021500648,286,426.41,nan / Paul 25' 3PT Jump Shot (9 PTS),Chris Paul,Paul Pierce
+199,0021500648,287,409.83,Anthony  Layup (15 PTS) (Calderon 4 AST) / nan,Carmelo Anthony,Robin Lopez
+200,0021500648,289,369.62,MISS Calderon 1' Layup / nan,Jose Calderon,Robin Lopez
+201,0021500648,324,271.56,Williams S.FOUL (P2.PN) (D.Taylor) / nan,Chris Paul,DeAndre Jordan
+202,0021500648,391,24.26,nan / W. Johnson 25' 3PT Jump Shot (14 PTS) (Rivers 2 AST),Austin Rivers,Wesley Johnson
+203,0021500648,398,700.11,Williams S.FOUL (P3.T1) (D.Stafford) / nan,Austin Rivers,Wesley Johnson
+204,0021500648,411,654.81,nan / Rivers S.FOUL (P2.T1) (M.Boland),Jerian Grant,Derrick Williams
+205,0021500648,418,616.29,nan / Aldrich 4' Hook Shot (4 PTS) (Prigioni 2 AST),Pablo Prigioni,Wesley Johnson
+206,0021500648,422,586.42,nan / Crawford 25' 3PT Jump Shot (11 PTS) (Prigioni 3 AST),Jamal Crawford,Cole Aldrich
+207,0021500648,431,532.32,Grant S.FOUL (P4.T3) (M.Boland) / nan,Pablo Prigioni,Wesley Johnson
+208,0021500648,443,444.08,Vujacic S.FOUL (P1.T4) (D.Taylor) / nan,Austin Rivers,Cole Aldrich
+209,0021500648,453,379.98,nan / Aldrich P.FOUL (P1.T2) (D.Taylor),Jerian Grant,Derrick Williams
+210,0021500648,458,354.11,nan / MISS Stephenson 17' Jump Shot,Pablo Prigioni,Cole Aldrich
+211,0021500648,473,298.96,nan / Wilcox 20' Step Back Jump Shot (2 PTS) (Stephenson 1 AST),Pablo Prigioni,Cole Aldrich
+212,0021500648,482,238.52,nan / MISS Stephenson 1' Driving Layup,Pablo Prigioni,Cole Aldrich
+213,0021500648,487,206.4,nan / MISS Rivers 20' Jump Shot,Pablo Prigioni,Cole Aldrich
+214,0021500648,499,157.39,nan / Stephenson S.FOUL (P1.PN) (D.Stafford),Jerian Grant,Kevin Seraphin
+215,0021500648,506,144.39,Seraphin S.FOUL (P1.PN) (M.Boland) / nan,Austin Rivers,Cole Aldrich
+216,0021500648,512,125.92,Galloway 1' Layup (8 PTS) (Seraphin 2 AST) / nan,Lou Amundson,Jerian Grant
